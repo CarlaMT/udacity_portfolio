@@ -80,7 +80,7 @@ main {
     margin-bottom: 1%;
 }
 
-.centered-left {
+.name-title {
     position: absolute;
     bottom: 100px;
     top: 50px;
@@ -90,7 +90,7 @@ main {
 .thumbnail {
     padding-bottom: 3rem;
     width: 100%;
-    margin: 0 1% 50rem 1%;
+    margin: 1px 60% 2rem 1%;
     -webkit-box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.25);
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.25);
 }
